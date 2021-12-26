@@ -1,1 +1,2 @@
-# image_projection_and_stitching
+# Erithax' Image Projection and Stitching Library
+
